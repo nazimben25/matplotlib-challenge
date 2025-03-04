@@ -1,4 +1,8 @@
-# matplotlib-challenge
+# Apply Matplotlib to generate a series of tables and figures needed for a technical report about a pharmaceutical study. 
+# Provide a top-level summary of the study results
+
+
+## matplotlib-challenge
 Challenge 5, matplotlib
 
 
